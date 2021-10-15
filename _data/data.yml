@@ -25,7 +25,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: # http://www.africau.edu/images/default/sample.pdf
 
     languages:
       - idiom: English
@@ -59,12 +59,12 @@ education:
           
     - degree: Diploma in Computer Engineering
       university: State Board of Technical Education
-      time: 2008 - 2013
+      time: 2009 - 2013
 
 experiences:
     - role: Full Stack Developer
-      time: 2021 - Present
-      company: BDI Plus pvt ltd, Banglore
+      time: April 2021 - Present
+      company: BDI Plus Lab, Banglore
       details: |
         Working on multiple projects and scaling the applications with the best microservices architecture.
         Shaping the products into right direction and making it robust and scalable for millions of users.
@@ -73,7 +73,7 @@ experiences:
           - Tech Stack Python, MySQL, React, Redux, Docker, Kubernetes and AWS.
     - role: Consultant Software Development Engineer
       time: Dec 2018 -  March 2021
-      company: PhonePe pvt ltd. under the payroll of Inoventes Technology. Banglore
+      company: PhonePe under the payroll of Inoventes Technology. Banglore
       details: |
         Working for PhonePe as Consultant Software Development Engineer. At PhonePe I work platforms like MERN stack,
         Docker, Apache Mesos and marathon orchestration layer, kubernetes and more.
@@ -81,14 +81,14 @@ experiences:
           - Handled a team of 3 frontend devlopers
     - role: Software Developer
       time: Jan 2018 - Aug 2018
-      company: Minovative Technologies
+      company: Minovative Technologies, Hyderabad
       details: |
         Fulfillment of extremely important tasks and worked platforms like Kibana, MERN stack, JavaScript, Juju and AWS.
           - Built complete invoice and Billing tool that handle millions of users with the scaleble architecture.
           - Executed the product in the right direction before the deadline.
-    - role: Technical Support Associate
+    - role: Technical Support Engineer
       time: Jan 2017 - Jan 2018
-      company: Tech Mahindra
+      company: Tech Mahindra, Hyderabad
       details: |
         Worked on supporting tool platform  using JavaScript, HTML5, CSS3 and also on network security environment.         
          
@@ -98,69 +98,81 @@ projects:
       Below are the projects that I worked on.
     assignments:
       - title: OneData.Plus
-        Tech Stack: "Python, Docker, MySQL Kubernetes, AWS, and React with Redux"
+        link: "Python, Docker, MySQL Kubernetes, AWS, and React with Redux"
         tagline: "Worked on multiple modules of OneData and integrated advanced customer 360 and Customer Behavior Maps through advanced visual relationships."
       
       - title: OneDigital.Plus
-        Tech Stack: "Python, Docker, MySQL, Kubernetes, AWS, and React with Redux"
+        link: "Python, Docker, MySQL, Kubernetes, AWS, and React with Redux"
         tagline: "OneDigital.Plus, digitalizes documents and automates process management and communications to reduce the time and effort required to carry out a process."
     
       - title: Valhalla
-        Tech Stack: "Nodejs, Docker, Jenkins, AWS, and React with Redux"
+        link: "Nodejs, Docker, Jenkins, AWS, and React with Redux"
         tagline: "Accounting Tool to deal with merchants and make the transactions easier to handle and maintain with merchants"
 
       - title: Transaction Store
-        Tech Stack: "Nodejs, Docker, Jenkins, Marathon Orchestraion Layer cloud platform, and React with Redux"
+        link: "Nodejs, Docker, Jenkins, Marathon Orchestraion Layer cloud platform, and React with Redux"
         tagline: "An app to handle the millions of transactions and store it in DB"
 
       - title: Kafka Monitoring
-        Tech Stack: "Nodejs, Docker, Jenkins, Marathon Orchestraion Layer cloud platform, and React with Redux"
+        link: "Nodejs, Docker, Jenkins, Marathon Orchestraion Layer cloud platform, and React with Redux"
         tagline: "Worked on complex task and implemnted an app thats keeps track of lags and partitions"
 
       - title: DB Ops Tools
-        Tech Stack: "Nodejs, Docker, Jenkins, Marathon Orchestraion Layer cloud platform and React with Redux"
+        link: "Nodejs, Docker, Jenkins, Marathon Orchestraion Layer cloud platform and React with Redux"
         tagline: "Implemented the Frontend Architure and worked on to handle DevOps Operations easy"
 
       - title: Accounting Operations
-        Tech Stack: "Java, Springboot , Nodejs, Docker, Jenkins, Marathon Orchestraion Layer cloud platform, Jquery, React with Redux"
+        link: "Java, Springboot , Nodejs, Docker, Jenkins, Marathon Orchestraion Layer cloud platform, Jquery, React with Redux"
         tagline: "A financial tool to handle disbursement, mode of transactions and more."
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Javascript & React & Redux 
+      - name: Javascript & React 
+        level: 90%
+        
+      - name: Redux & Webpack
         level: 90%
 
-      - name: Node.js & Express Js & Python Flask
+      - name: Node.js & Express Js
         level: 85%
+        
+      - name: Python Flask & Django
+        level: 75%
 
-      - name: HTML5 & CSS & SASS & LESS
+      - name: HTML5 & CSS
         level: 95%
-
-      - name: Kubernetes & Jira & Jenkins & Docker & AWS
+        
+      - name: SASS & LESS
+        level: 95%
+        
+      - name: Kubernetes & Jira
+        level: 70%
+        
+      - name: Jenkins & Docker & AWS
         level: 70%
 
       - name: GitLab & MySQL & MongoDB
