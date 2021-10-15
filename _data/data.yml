@@ -64,7 +64,7 @@ education:
 experiences:
     - role: Full Stack Developer
       time: April 2021 - Present
-      company: BDI Plus pvt ltd, Banglore
+      company: BDI Plus Lab, Banglore
       details: |
         Working on multiple projects and scaling the applications with the best microservices architecture.
         Shaping the products into right direction and making it robust and scalable for millions of users.
@@ -73,7 +73,7 @@ experiences:
           - Tech Stack Python, MySQL, React, Redux, Docker, Kubernetes and AWS.
     - role: Consultant Software Development Engineer
       time: Dec 2018 -  March 2021
-      company: PhonePe pvt ltd. under the payroll of Inoventes Technology. Banglore
+      company: PhonePe under the payroll of Inoventes Technology. Banglore
       details: |
         Working for PhonePe as Consultant Software Development Engineer. At PhonePe I work platforms like MERN stack,
         Docker, Apache Mesos and marathon orchestration layer, kubernetes and more.
@@ -81,14 +81,14 @@ experiences:
           - Handled a team of 3 frontend devlopers
     - role: Software Developer
       time: Jan 2018 - Aug 2018
-      company: Minovative Technologies
+      company: Minovative Technologies, Hyderabad
       details: |
         Fulfillment of extremely important tasks and worked platforms like Kibana, MERN stack, JavaScript, Juju and AWS.
           - Built complete invoice and Billing tool that handle millions of users with the scaleble architecture.
           - Executed the product in the right direction before the deadline.
     - role: Technical Support Engineer
       time: Jan 2017 - Jan 2018
-      company: Tech Mahindra
+      company: Tech Mahindra, Hyderabad
       details: |
         Worked on supporting tool platform  using JavaScript, HTML5, CSS3 and also on network security environment.         
          
