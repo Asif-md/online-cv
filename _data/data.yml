@@ -7,17 +7,17 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Mohammed Asif
+    name: Mohammed Asif Pasha
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: asifmd.78621@gmail.com
     phone: +91 900 083 0069
-    website: blog.webjeda.com #do not add http://
-    linkedin: https://www.linkedin.com/in/mohammed-asif-380b7a105/
-    xing: https://www.xing.com/profile/Mohammed_AsifPasha/cv
-    github: https://github.com/Asif-md
+    website: https://asif-md.github.io/portfolio/ #do not add http://
+    linkedin: mohammed-asif-380b7a105
+    xing: Mohammed_AsifPasha/cv
+    github: Asif-md
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -30,9 +30,6 @@ sidebar:
     languages:
       - idiom: English
         level: Professional
-
-      - idiom: Deutsch
-        level: A1
 
     interests:
       - item: Cricket
@@ -59,17 +56,11 @@ education:
         During my final year in college worked on several projects and participated in Hackathons.
           - Got first prize in Mozilla Hackathon, developed event-management web app in 7 hours. 
           - Achieved other prizes in sports like Cricket.
+          
     - degree: Diploma in Computer Engineering
       university: State Board of Technical Education
       time: 2008 - 2013
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
 experiences:
     - role: Full Stack Developer
       time: 2021 - Present
@@ -104,9 +95,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Below are the projects that I worked on.
     assignments:
       - title: OneData.Plus
         Tech Stack: "Python, Docker, MySQL Kubernetes, AWS, and React with Redux"
@@ -166,7 +155,7 @@ skills:
         level: 90%
 
       - name: Node.js & Express Js & Python Flask
-        level: 80%
+        level: 85%
 
       - name: HTML5 & CSS & SASS & LESS
         level: 95%
